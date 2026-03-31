@@ -90,7 +90,7 @@ crackvision-road-analysis
 1. **Clone the repository**
    ```bash
    git clone https://github.com/urmi272/smart-pavement-crack-detection.git
-   cd crackvision-road-analysis
+   cd smart-pavement-crack-detection
    ```
 
 2. **Create a virtual environment** (recommended)
