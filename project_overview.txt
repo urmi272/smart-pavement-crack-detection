@@ -1,0 +1,1 @@
+This project demonstrates a computer vision approach to detect cracks in road surfaces using OpenCV. The system performs grayscale conversion, noise reduction, edge detection and morphological operations to highlight cracks.
