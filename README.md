@@ -50,7 +50,7 @@ Manual inspection of roads is **slow, expensive, and inconsistent**. An automate
 | Visualisation | Matplotlib |
 
 ---
-
+```
 ## Folder Structure
 ---
 crackvision-road-analysis
@@ -76,6 +76,7 @@ crackvision-road-analysis
 ├── requirements.txt
 └── project_overview.txt
 ---
+```
 
 ## Installation
 
